@@ -32,3 +32,21 @@ korzystanie z tego materiału lub uzyskiwanie do niego dostępu. Scenariusz ten
 nie został opublikowany, zatwierdzony ani w żaden sposób autoryzowany przez
 Chaosium Inc. Więcej informacji o produktach Chaosium Inc. można znaleźć na
 stronie www.chaosium.com.
+
+
+TWÓRCY
+Ewa Hopke i Marek Musiał: autorzy scenariusza
+Tomasz Pytlak: grafika
+Michał Heronimczak: wsparcie merytoryczne
+Adam Szelążek: skład
+Inez Kowalska-Musiał: wsparcie merytoryczne
+Joanna Luśnia: korekta i redakcja
+Jakub Leszczyński: wsparcie merytoryczne
+Adrian Kaszuba: wsparcie merytoryczne
+Robert Romanowski: wsparcie merytoryczne, tester
+Michał Laskowski: wsparcie merytoryczne, tester
+Filip Cant: tester
+Dorota Kuchareczko: testerka
+Dominika Grudziecka: wsparcie merytoryczne, testerka
+Anna Duraczyńska-Wal: autorka tekstu o grach fabularnych
+Gabriela Waleńczak: testerka
