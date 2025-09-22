@@ -1,6 +1,6 @@
 # Sopot-Miedzy-Wierszami
-INFORMACJE
-Sopot między wierszami to scenariusz do Zewu Cthulhu 7. edycji, osadzony
+
+"Sopot między wierszami" to scenariusz do Zewu Cthulhu 7. edycji, osadzony
 w dwudziestoleciu międzywojennym, w eleganckim i burzliwym Sopocie
 roku 1929. Strażnik Tajemnic poprowadzi graczy przez intrygę o nadprzyrodzonym
 i literackim charakterze, w której poezja staje się kluczem do odkrycia
