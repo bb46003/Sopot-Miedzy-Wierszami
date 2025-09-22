@@ -1,0 +1,37 @@
+{
+  "id": "sopot-miedzy-wierszami",
+  "title": "Sopot między wierszami",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "main.mjs"
+  ],
+  "packs": [
+    {
+      "name": "sopot-miedzy-wierszami",
+      "label": "sopot między wierszami",
+      "path": "packs/sopot-miedzy-wierszami",
+      "type": "Adventure",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "socket": true,
+  "relationships": {
+    "systems": [
+      {
+        "id": "CoC7",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "",
+  "flags": {}
+}
