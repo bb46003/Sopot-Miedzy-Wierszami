@@ -35,5 +35,6 @@
   "description": "",
   "flags": {},
   "manifest":"https://raw.githubusercontent.com/bb46003/Sopot-Miedzy-Wierszami/refs/heads/main/module.json",
-  "download":"https://github.com/bb46003/Sopot-Miedzy-Wierszami/archive/refs/heads/main.zip"
+  "download":"https://github.com/bb46003/Sopot-Miedzy-Wierszami/archive/refs/heads/main.zip",
+  "url":"https://github.com/bb46003/Sopot-Miedzy-Wierszami"
 }
